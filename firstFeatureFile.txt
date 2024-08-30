@@ -1,0 +1,7 @@
+my first feature :
+database management system
+frontend development
+backend development
+integration
+testing
+deployment
